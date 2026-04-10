@@ -2,9 +2,9 @@
 
 Điền ngắn gọn quá trình làm bài. Có thể thêm hoặc bớt dòng.
 
-- [ ] 09:00 - Nhận starter repo / accept assignment / fork repo
-- [ ] 09:05 - Clone repo về máy
-- [ ] 09:10 - Đọc đề bài và xác định assets
+- [x] 09:00 - Nhận starter repo / accept assignment / fork repo
+- [x] 09:05 - Clone repo về máy
+- [x] 09:10 - Đọc đề bài và xác định assets
 - [ ] 09:20 - Hoàn thành CIA mapping
 - [ ] 09:30 - Viết threat / vulnerability / mitigation
 - [ ] 09:40 - Hoàn thành report-1page
@@ -14,6 +14,6 @@
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: Phân biệt rõ ràng giữa threat và vulnerability, cách xác định CIA cho từng sự cố
+- Cách em xử lý: Đọc kỹ đề bài, phân tích bối cảnh hệ thống, xem xét từ góc độ từng bên liên quan
+- Điều em học được từ bài lab: Bộ ba CIA là nền tảng quan trọng của bảo mật thông tin. Cần phân tích kỹ các yếu tố threat, vulnerability, mitigation để có thể đề xuất các biện pháp bảo vệ hiệu quả. GitHub workflow giúp tôi làm quen với quy trình làm việc chuyên nghiệp trong lập trình.
